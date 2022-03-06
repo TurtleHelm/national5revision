@@ -7,8 +7,7 @@ subjects = ['English',
             'Biology', 'Chemistry', 
             'Physics', 
             'Application of Mathematics', 
-            'Geography',
-            'Modern Studies']
+            'Geography']
 
 urls = ['Pages/eng',
         'Pages/math',
@@ -18,8 +17,7 @@ urls = ['Pages/eng',
         'Pages/chem',
         'Pages/phys',
         'Pages/appMath',
-        'Pages/geo',
-        'Pages/mod']
+        'Pages/geo']
 
 let ul = document.querySelector('.urlList');
 
