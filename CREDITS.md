@@ -8,6 +8,6 @@
 >
 > #### Images/Icons
 >
-> - Website Background: [https://www.fs.usda.gov/mbs/](Mount Baker-Snoqualmie National Forest)
+> - Website Background: [https://www.fs.usda.gov/mbs](Mount Baker-Snoqualmie National Forest)
 >
 > - Website Icon: [https://www.freepik.com/](Icon Link)
